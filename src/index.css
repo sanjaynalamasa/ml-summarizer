@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-dark-900 text-gray-100 font-sans;
+}
+
+.glass-effect {
+  @apply bg-opacity-10 backdrop-blur-lg bg-white border border-gray-700;
+}
+
+.hover-glow {
+  @apply transition-all duration-300 hover:shadow-glow;
+}
