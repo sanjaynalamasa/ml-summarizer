@@ -34,6 +34,20 @@ function App() {
             <div>
               <h3 className="text-xl font-bold mb-4 text-primary-400">ML Summarizer</h3>
               <p className="text-gray-400">Advanced text summarization powered by machine learning.</p>
+              &nbsp; 
+              &nbsp;  
+
+              <div>
+                    <a 
+                     href="https://sanjaynalamasa-07.netlify.app/" 
+                     //target="_blank" not use so comment i used.
+                    rel="noopener noreferrer"
+                    className="text-white bg-primary-500 px-4 py-2 rounded-lg shadow-lg transition duration-300 ease-in-out transform hover:bg-primary-600 hover:scale-105 hover:shadow-xl"
+                          >
+                    Our Services
+                    </a>
+                    </div>
+
             </div>
             <div>
               <h3 className="text-xl font-bold mb-4 text-primary-400">Contact</h3>
