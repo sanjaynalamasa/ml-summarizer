@@ -1,4 +1,5 @@
 import React from 'react';
+//all imported here.
 
 const Partners = () => {
   return (

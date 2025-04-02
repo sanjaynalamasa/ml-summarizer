@@ -13,7 +13,7 @@ const contributors = [
     role: "ML Engineer",
     image: "https://source.unsplash.com/random/200x200?face&2",
     quote: "Dedicated to improving text summarization accuracy and performance."
-    //Dedicated to improving text summarization accuracy and performance.
+    //Dedicated to improving text summarization accuracy and performances.
   },
   {
     name: "Harika",
@@ -27,7 +27,7 @@ const contributors = [
     role: "Backend Developer",
     image: "https://source.unsplash.com/random/200x200?face&4",
     quote: "Building robust and scalable backend systems for ML applications."
-    //Building robust and scalable backend systems for ML applications.
+    //Building robust and scalable backend systems for ML applications..
   },
   {
     name: "Sriram",

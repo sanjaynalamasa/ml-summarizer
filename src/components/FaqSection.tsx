@@ -12,7 +12,7 @@ const faqs = [
   },
   {
     question: "Is there a word limit for summarization?",
-    answer: "No!! There is No limit for summarization Your Patience makes You Summarise.-.)."
+    answer: "No!! There is No limit for summarization Your Patience makes You Summarise.-.)..."
   },
   {
     question: "How accurate are the summaries?",

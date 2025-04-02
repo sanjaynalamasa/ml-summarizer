@@ -41,7 +41,7 @@ def analyze_text(text):
     blob = TextBlob(text)
     sentiment = blob.sentiment.polarity
     
-    # Named Entity Recognition
+    # Named Entity Recognitions
     doc = nlp(text)
     entities = [(ent.text, ent.label_) for ent in doc.ents]
     

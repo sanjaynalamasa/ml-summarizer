@@ -14,8 +14,8 @@ const SocialProof = () => {
           
           <div className="flex flex-col items-center p-6 bg-gray-700 rounded-lg">
             <Star className="h-12 w-12 text-indigo-400" />
-            <p className="mt-4 text-xl font-semibold text-white">0.0 Rating</p>
-            <p className="mt-2 text-gray-300">00,000+ verified reviews</p>
+            <p className="mt-4 text-xl font-semibold text-white">0.00 Rating</p>
+            <p className="mt-2 text-gray-300">0,000+ verified reviews</p>
           </div>
           
           <div className="flex flex-col items-center p-6 bg-gray-700 rounded-lg">

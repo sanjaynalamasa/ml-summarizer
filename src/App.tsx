@@ -40,7 +40,7 @@ function App() {
               <div>
                     <a 
                      href="https://sanjaynalamasa-mlsummariser.netlify.app/" 
-                     //target="_blank" not use so comment i used for reference.
+                     //target="_blank" not use so comment i used for references.
                     rel="noopener noreferrer"
                     className="text-white bg-primary-500 px-4 py-2 rounded-lg shadow-lg transition duration-300 ease-in-out transform hover:bg-primary-600 hover:scale-105 hover:shadow-xl"
                           >

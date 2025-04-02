@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { FileText, Loader } from 'lucide-react';
+//start.
 
 const HeroSection = () => {
   const [inputText, setInputText] = useState('');
